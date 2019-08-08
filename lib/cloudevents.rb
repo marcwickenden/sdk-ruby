@@ -1,4 +1,4 @@
-require "JSON"
+require "json"
 
 require "cloudevents/version"
 require "cloudevents/errors"
